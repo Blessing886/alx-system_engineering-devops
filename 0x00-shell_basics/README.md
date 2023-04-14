@@ -1,1 +1,1 @@
- moves all files beginning with an uppercase
+ deletes all files in the current working directory that end with the character
