@@ -1,1 +1,1 @@
- script that changes the group owner
+ moves all files beginning with an uppercase
