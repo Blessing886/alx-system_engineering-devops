@@ -1,1 +1,1 @@
-deletes all the regular files
+ script that counts
