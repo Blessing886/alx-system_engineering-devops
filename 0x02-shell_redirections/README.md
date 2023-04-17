@@ -1,1 +1,1 @@
- lines containing the pattern and three lines after
+ all the lines in the file
