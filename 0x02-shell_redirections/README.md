@@ -1,1 +1,1 @@
- all the lines in the file
+Display all lines of the file starting with a letter
