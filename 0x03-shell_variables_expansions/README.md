@@ -1,1 +1,1 @@
-script that prints where user is the current Linux user
+last directory the shell looks into
