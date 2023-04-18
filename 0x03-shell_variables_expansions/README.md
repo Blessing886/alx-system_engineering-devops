@@ -1,1 +1,1 @@
-prints the result of the addition of 128
+script that prints the result
