@@ -1,1 +1,1 @@
-possible combinations of two letters, except oo
+ number with two decimal places, followed by a new line
