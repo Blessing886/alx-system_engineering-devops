@@ -1,1 +1,1 @@
- finds all empty files and directories
+script that decodes acrostics
