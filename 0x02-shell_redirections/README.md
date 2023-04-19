@@ -1,1 +1,1 @@
-script that displays all users and their home directories
+ lists all the files with a gif extension
